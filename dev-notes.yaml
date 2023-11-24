@@ -1,0 +1,126 @@
+---
+# https://github.com/HumansDoNotWantImmortality/bg3-sids/wiki/Music%5C%5BPAK%5D_Music_Bard-&-MUSIC_BARD.bnk
+# https://github.com/HumansDoNotWantImmortality/bg3-sids/wiki
+# https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Unpacking-Game-Files
+# https://www.nexusmods.com/baldursgate3/mods/2757
+---
+# SharedSounds.pak/Public/Shared/Assets/Sound/
+340373265:
+  duration: 2:50
+  instrument: lyre?
+  song: bard dance
+867291930:
+  duration: 2:50
+  instrument: 2x lyres?
+  song: bard dance
+958425049:
+  duration: 2:50
+  instrument: violin
+  song: bard dance
+91256288:
+  duration: 2:50
+  instrument: drums
+  song: bard dance
+824207806:
+  duration: 2:50
+  instrument: whistling
+  song: bard dance
+582548246:
+  duration: 2:50
+  instrument: lute
+  song: bard dance
+  # x-actual: Tuna Dragula
+98035890:
+  duration: 2:50
+  instrument: flute
+  song: bard dance
+88231746:
+  duration: 2:05
+  instrument: lute
+  song: old time battles
+  # x-actual: Tuna Living in a Box
+160641375:
+  duration: 2:05
+  instrument: lyre
+  song: old time battles
+688689226:
+  duration: 2:05
+  instrument: flute
+  song: old time battles
+107779537:
+  duration: 2:05
+  instrument: violin
+  song: old time battles
+1032011443:
+  duration: 2:05
+  instrument: drums
+  song: old time battles
+549395448:
+  duration: 2:05
+  instrument: whistling
+  song: old time battles
+426625190:
+  duration: 2:05
+  instrument: 2x lutes
+  song: old time battles
+230164766:
+  duration: 1:56
+  instrument: lute
+  song: the power
+  x-actual: Tuna D&D Song
+264861677:
+  duration: 1:56
+  instrument: drums
+  song: the power
+247277282:
+  duration: 1:56
+  instrument: flute
+  song: the power
+470306917:
+  duration: 1:56
+  instrument: violin
+  song: the power
+299705835:
+  duration: 1:56
+  instrument: whistling
+  song: the power
+182777796:
+  duration: 1:56
+  instrument: lyre
+  song: the power
+494478532:
+  duration: 1:56
+  instrument: glockenschpiel?
+  song: the power
+72217125:
+  duration: 1:56
+  instrument: pipe organ?
+  song: the power
+863359200:
+  duration: 1:56
+  instrument: harp?
+  song: the power
+---
+banjo: lute
+whistling: whistling
+harmonica: flute
+drums: drums
+stranger-flute: violin
+nomai-piano: lyre
+
+---
+823954173:
+  duration: 2:04
+  instrument: choir + backing strings
+  song: harpy song
+175337424:
+  duration: 2:04
+  instrument: choir
+  song: harpy song
+---
+474329706:
+  duration: 2:38
+  x-extra: raphael fight song
+539250263:
+  duration: 2:49
+  x-extra: alfira song
