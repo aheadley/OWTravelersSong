@@ -26,6 +26,9 @@ Just Perform the *Old Time Battles* song in-game. This will require instrument
 proficiency, which you can get by being a bard. If you want your less musically
 inclined friends to be able to join you, I recommend this mod: https://www.nexusmods.com/baldursgate3/mods/2759
 
+The mod works in online multiplayer if all players have it. I do not know if it
+works if only one or some do.
+
 ## Uninstallation
 
 Delete the `*.wem` files added by this mod from
