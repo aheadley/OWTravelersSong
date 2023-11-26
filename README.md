@@ -14,6 +14,8 @@ for part:
 
 Demo Video: https://www.youtube.com/watch?v=X0oHaLeiTJA
 
+NexusMods Page: https://www.nexusmods.com/baldursgate3/mods/4517
+
 ## Installation
 
 Copy & paste the `Data/` directory into the game directory (something
