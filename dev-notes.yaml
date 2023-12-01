@@ -124,3 +124,7 @@ nomai-piano: lyre
 539250263:
   duration: 2:49
   x-extra: alfira song
+---
+# patch 5 encoding change (vgmstream-cli metadata)
+pre-patch-5: {"version":"\u0002","sampleRate":48000,"channels":2,"mixingInfo":null,"channelLayout":3,"loopingInfo":null,"interleaveInfo":null,"numberOfSamples":6106434,"encoding":"libopus Opus","layout":"flat","frameSize":null,"metadataSource":"Audiokinetic Wwise RIFF header","bitrate":138704,"streamInfo":{"index":0,"name":null,"total":1}}
+post-patch-5: {"version":"\u0002","sampleRate":44100,"channels":2,"mixingInfo":null,"channelLayout":3,"loopingInfo":null,"interleaveInfo":null,"numberOfSamples":5551856,"encoding":"Custom Vorbis","layout":"flat","frameSize":null,"metadataSource":"Audiokinetic Wwise RIFF header","bitrate":259556,"streamInfo":{"index":0,"name":null,"total":1}}
