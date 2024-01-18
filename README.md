@@ -7,8 +7,8 @@ Each instrument from OW is mapped to a corresponding instrument in BG3, part
 for part:
   - Banjo = Lute
   - Whistling = Whistling
-  - Harmonica = Flute
-  - Stranger Flute = Violin
+  - Harmonica + Clarinet = Flute
+  - Stranger Strings = Violin
   - Nomai Piano = Lyre
   - Drums = Hand Drum
 
@@ -55,6 +55,3 @@ Content Policy: https://www.mobiusdigitalgames.com/fan-content-policy.html
   prevent the loop sounding much worse for a second or two because the BG3
   instrument tracks are not all precisely the same length. There are probably
   better ways to solve this via time stretching or something.
-  - I don't love the Stranger Flute being on the Violin, but it was the least
-  bad choice.
-  - The Nomai Piano track is a little too loud, but fixing it is kind of a pain.
